@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Welcome to Hawai‘i</string>
+
+    <string name="beachesActivity">Favorite Beaches</string>
+    <string name="kaimanas">Kaimanas</string>
+    <string name="magicisland">Magic Island</string>
+    <string name="bellows">Bellows</string>
+    <string name="makapuu">Makapu‘u</string>
+    <string name="yokohama">Yokohama</string>
+
+    <string name="foodActivity">Favorite Foods</string>
+    <string name="pigAndLady">Pig &amp; the Lady</string>
+    <string name="rainbows">Rainbow\'s Drive-inn</string>
+    <string name="jjd">JJ Dolan\'s Pizza</string>
+    <string name="dhhb">Diamond Head Health Bar</string>
+
+    <string name="hikesActivity">Favorite Hikes</string>
+    <string name="hawaiiloa">Hawai‘i Loa Ridge</string>
+    <string name="kokoHead">Koko Head</string>
+    <string name="kuliouou">Kuli‘ou‘ou Ridge</string>
+    <string name="makapuuLightHouse">Makapu‘u Light House</string>
+    <string name="pillboxes">Kailua Pillboxes</string>
+
+    <string name="islandsActivity">Islands</string>
+    <string name="bigisland">Big Island</string>
+    <string name="maui">Maui</string>
+    <string name="kauai">Kaua‘i</string>
+    <string name="lanai">Lana‘i</string>
+    <string name="molokai">Moloka‘i</string>
+    <string name="kahoolawe">Kaho‘olawe</string>
+    <string name="oahu">O‘ahu</string>
+    <string name="niihau">Ni‘ihau</string>
+</resources>

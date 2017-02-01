@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/bg"
+    android:id="@+id/list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.android.tourguideapp.MainActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/beachesActivity"
+        style="@style/navStyle"
+        android:text="@string/beachesActivity" />
+
+    <TextView
+        android:id="@+id/foodActivity"
+        style="@style/navStyle"
+        android:text="@string/foodActivity" />
+
+    <TextView
+        android:id="@+id/hikesActivity"
+        style="@style/navStyle"
+        android:text="@string/hikesActivity" />
+
+    <TextView
+        android:id="@+id/islandsActivity"
+        style="@style/navStyle"
+        android:text="@string/islandsActivity" />
+
+    <ImageView
+        android:id="@+id/imageViewIslands"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/islands_hdpi"
+        android:padding="8dp"/>
+
+</LinearLayout>
